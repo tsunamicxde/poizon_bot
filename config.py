@@ -1,9 +1,11 @@
 BOT_TOKEN = "YOUR_BOT_TOKEN"
+PAYMENTS_TOKEN = "YOUR_PAYMENT_TOKEN"
 
-host = 'YOUR_DB_HOST'
-port = 'YOUR_DB_PORT'
-db_name = 'YOUR_DB_NAME'
-user = 'YOUR_USERNAME'
-password = 'YOUR_PASSWORD'
+host = 'your_db_host'
+port = 'your_db_port'
+db_name = 'your_db_name'
+user = 'your_username'
+password = 'your_db_password'
 
-channel_name = "@YOUR_CHANNEL_NAME"
+channel_name = "@your_channel_name"
+admin_name = "@your_admin_name"
